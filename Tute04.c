@@ -10,7 +10,8 @@ int minimum(int x,int y);
 int maximum(int x,int y);
 int multiply(int x,int y);
 
-int main() {
+int main()
+{
    int no1, no2;
    printf("Enter a value for no 1 : ");
    scanf("%d", &no1);
